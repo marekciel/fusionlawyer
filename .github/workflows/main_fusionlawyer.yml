@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'fusionlawyer'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_fc367d03343046568e533c9ac5b71a0c }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3a9eea7728834b4785c09a9a4edfd45d }}
         package: .
